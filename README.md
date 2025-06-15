@@ -20,7 +20,7 @@ Here are the results from the image integration process:
 
 | Original Person | Original Scene | Final Composite |
 |----------------|----------------|-----------------|
-| ![Person](images/person.jpg) | ![Background](images/background.jpg) | ![Result](results/final_output.png) |
+| ![Person](images/person.jpg) | ![Background](images/bg2.jpg) | ![Result](results/final_output.png) |
 
 ## Step-by-Step Process
 
